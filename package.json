@@ -1,0 +1,20 @@
+{
+  "name": "@li-ndn/applymixins",
+  "version": "1.1.0",
+  "description": "typescript mixins apply",
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "index.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max campbell",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlabee.chehejia.com:li-ndn/applymixins.git"
+  }
+}
